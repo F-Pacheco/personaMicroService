@@ -9,3 +9,4 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/localidades")
 public class LocalidadController extends BaseControllerImpl<LocalidadEntity, LocalidadServiceImpl>{
 }
+
